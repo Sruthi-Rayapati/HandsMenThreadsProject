@@ -1,2 +1,1 @@
-link for the project demo video
-
+Salesforce virtual Internship collaboration with SmartBridge
